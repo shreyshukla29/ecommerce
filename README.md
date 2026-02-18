@@ -1,7 +1,7 @@
-<h1>🛒 ShopEase - Full-Stack E-Commerce Website</h1>
+<h1>🛒 Ecommerce - Full-Stack E-Commerce Website</h1>
 
 <p>
-    ShopEase is a fully functional e-commerce platform built with the <strong>MERN stack</strong> (MongoDB, Express, React, Node.js). 
+    Ecommerce is a fully functional e-commerce platform built with the <strong>MERN stack</strong> (MongoDB, Express, React, Node.js). 
     It includes essential e-commerce features like product browsing, filtering, user authentication, order management, and an integrated payment gateway using <strong>Stripe</strong>. 
     An admin panel is also provided for managing products and orders efficiently.
 </p>
@@ -63,8 +63,8 @@
 <h3>1. Clone the Repository</h3>
 <pre>
 <code>
-git clone https://github.com/adarshupadhyay21/shopease.git
-cd shopease
+git clone 
+cd project name
 </code>
 </pre>
 
